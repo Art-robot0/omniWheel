@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/install
+
+Name: carebot_description1
+Description: Description of carebot_description1
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/install/lib 
+Requires: 

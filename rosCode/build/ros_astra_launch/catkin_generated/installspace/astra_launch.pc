@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/install
+
+Name: astra_launch
+Description: Description of astra_launch
+Version: 0.2.1
+Cflags: 
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/install/lib 
+Requires: 

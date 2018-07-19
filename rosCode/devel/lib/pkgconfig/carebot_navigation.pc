@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/devel
+
+Name: carebot_navigation
+Description: Description of carebot_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/devel/lib 
+Requires: 

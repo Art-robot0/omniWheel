@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/devel
+
+Name: rplidar_ros
+Description: Description of rplidar_ros
+Version: 1.5.7
+Cflags: 
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/devel/lib 
+Requires: 

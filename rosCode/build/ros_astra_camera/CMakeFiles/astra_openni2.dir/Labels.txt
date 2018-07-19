@@ -1,0 +1,13 @@
+# Target labels
+ astra_openni2
+# Source files and their labels
+/home/sz/omniWheelCareRobot/rosCode/build/ros_astra_camera/CMakeFiles/astra_openni2
+/home/sz/omniWheelCareRobot/rosCode/build/ros_astra_camera/CMakeFiles/astra_openni2.rule
+/home/sz/omniWheelCareRobot/rosCode/build/ros_astra_camera/CMakeFiles/astra_openni2-complete.rule
+/home/sz/omniWheelCareRobot/rosCode/build/ros_astra_camera/astra_openni2/src/astra_openni2-stamp/astra_openni2-install.rule
+/home/sz/omniWheelCareRobot/rosCode/build/ros_astra_camera/astra_openni2/src/astra_openni2-stamp/astra_openni2-mkdir.rule
+/home/sz/omniWheelCareRobot/rosCode/build/ros_astra_camera/astra_openni2/src/astra_openni2-stamp/astra_openni2-download.rule
+/home/sz/omniWheelCareRobot/rosCode/build/ros_astra_camera/astra_openni2/src/astra_openni2-stamp/astra_openni2-update.rule
+/home/sz/omniWheelCareRobot/rosCode/build/ros_astra_camera/astra_openni2/src/astra_openni2-stamp/astra_openni2-patch.rule
+/home/sz/omniWheelCareRobot/rosCode/build/ros_astra_camera/astra_openni2/src/astra_openni2-stamp/astra_openni2-configure.rule
+/home/sz/omniWheelCareRobot/rosCode/build/ros_astra_camera/astra_openni2/src/astra_openni2-stamp/astra_openni2-build.rule

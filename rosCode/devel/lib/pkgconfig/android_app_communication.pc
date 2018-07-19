@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/devel
+
+Name: android_app_communication
+Description: Description of android_app_communication
+Version: 0.0.0
+Cflags: -I/home/sz/omniWheelCareRobot/rosCode/devel/include
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/devel/lib 
+Requires: 

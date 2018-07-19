@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/install
+
+Name: carebot_follower
+Description: Description of carebot_follower
+Version: 2.3.7
+Cflags: -I/home/sz/omniWheelCareRobot/rosCode/install/include
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/install/lib -lcarebot_follower
+Requires: nodelet roscpp visualization_msgs carebot_msgs depth_image_proc dynamic_reconfigure

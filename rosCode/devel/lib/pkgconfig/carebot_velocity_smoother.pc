@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/devel
+
+Name: carebot_velocity_smoother
+Description: Description of carebot_velocity_smoother
+Version: 0.8.2
+Cflags: -I/home/sz/omniWheelCareRobot/rosCode/devel/include -I/home/sz/omniWheelCareRobot/rosCode/src/carebot_velocity_smoother/include
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/devel/lib -lcarebot_velocity_smoother_nodelet
+Requires: roscpp pluginlib nodelet ecl_threads dynamic_reconfigure geometry_msgs nav_msgs

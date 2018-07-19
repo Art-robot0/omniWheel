@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/devel
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/sz/omniWheelCareRobot/rosCode/src/serial/include
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/devel/lib -lserial
+Requires: 

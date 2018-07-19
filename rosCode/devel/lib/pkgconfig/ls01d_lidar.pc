@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/devel
+
+Name: ls01d_lidar
+Description: Description of ls01d_lidar
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/devel/lib 
+Requires: 

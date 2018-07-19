@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/devel
+
+Name: carebot_msgs
+Description: Description of carebot_msgs
+Version: 2.2.1
+Cflags: -I/home/sz/omniWheelCareRobot/rosCode/devel/include
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/devel/lib 
+Requires: std_msgs sensor_msgs std_srvs message_runtime

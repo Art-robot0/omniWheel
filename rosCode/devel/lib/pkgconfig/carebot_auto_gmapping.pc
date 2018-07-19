@@ -1,0 +1,8 @@
+prefix=/home/sz/omniWheelCareRobot/rosCode/devel
+
+Name: carebot_auto_gmapping
+Description: Description of carebot_auto_gmapping
+Version: 0.3.2
+Cflags: -I/home/sz/omniWheelCareRobot/rosCode/src/carebot_auto_gmapping/include
+Libs: -L/home/sz/omniWheelCareRobot/rosCode/devel/lib 
+Requires: roslib roscpp tf geometry_msgs sensor_msgs nav_msgs
